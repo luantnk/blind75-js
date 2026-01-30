@@ -1,0 +1,27 @@
+{
+  "name": "blind75",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "vitest run",
+  "test:watch": "vitest",
+  "test:ui": "vitest --ui"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luantnk/blind75-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luantnk/blind75-js/issues"
+  },
+  "homepage": "https://github.com/luantnk/blind75-js#readme",
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+
+}
